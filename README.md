@@ -7,19 +7,18 @@
 * [License](#License)
 
 ## General info
-Esse pojeto foi contruído com o  intuíto de demonstrar  uma  landing page contento as principais informações que um usuário ou clinete busca em uma página de produtos que 
-ele tem interesse. Essa landing page possui navegação rápida através do menu lateral e botões de chamada para ação dentre as seções que possibilitam  uma melhor experiência 
-para o usuário. 
-É totalmente responsivo para qualquer plataforma sem perda de performance e usabilidade.
+Esse um projeto de um jogo que consiste em o usuário tentar acertar o máximo possível de vezes durante a partida. 
+Utilizado o método Math.random() com javascript é possível gerar números aleatórios e isso deixa o jogo mais dinâmico e interativo ao ponto de não poder prever os acertos e erros
+durante a jogatina.
 	
 ## Technologies
 Esse projeto usa as seguintes tecnologias:
 * HTML 5
 * CSS 3 
-* JQuery
+* Javascript
 	
 ## Installation
-Faça um clone desse repo e abra o arquivo HTML no navegador ou caso queira apenas ver o projeto online, acesse nesse link:  https://gpereira305.github.io/nexter-imobiliaria
+Faça um clone desse repo e abra o arquivo HTML no navegador ou caso queira apenas ver o projeto online, acesse nesse link:  https://gpereira305.github.io/paper-scissors-spock-game
  
 
 ## License
