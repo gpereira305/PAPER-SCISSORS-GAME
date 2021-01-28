@@ -27,5 +27,4 @@ Faça um clone desse repo e abra o arquivo HTML no navegador ou caso queira apen
 
 ```
 
-## Demo
-![paper-scissors-spock](https://user-images.githubusercontent.com/66249777/106072346-c0e66000-60e6-11eb-8caf-995bca1fdf3d.gif)
+## Demo 
