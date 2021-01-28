@@ -5,6 +5,7 @@
 * [Technologies](#technologies)
 * [Installation](#Installation)
 * [License](#License)
+* [Demo](#Demo)
 
 ## General info
 Esse um projeto de um jogo que consiste em o usuário tentar acertar o máximo possível de vezes durante a partida. 
@@ -26,7 +27,5 @@ Faça um clone desse repo e abra o arquivo HTML no navegador ou caso queira apen
 
 ```
 
-
-
-
-![calculadora-javascript](https://user-images.githubusercontent.com/66249777/106068057-ac05ce80-60de-11eb-9a2a-1d84c8ecd3a9.gif)
+## Demo
+![paper-scissors-spock](https://user-images.githubusercontent.com/66249777/106070511-5e3f9500-60e3-11eb-93c9-e324ec9f03d6.gif)
