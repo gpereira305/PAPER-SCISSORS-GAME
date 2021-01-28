@@ -7,6 +7,7 @@
 * [License](#License)
 * [Demo](#Demo)
 
+
 ## General info
 Esse um projeto de um jogo que consiste em o usuário tentar acertar o máximo possível de vezes durante a partida. 
 Utilizado o método Math.random() com javascript é possível gerar números aleatórios e isso deixa o jogo mais dinâmico e interativo ao ponto de não poder prever os acertos e erros
@@ -25,7 +26,7 @@ Faça um clone desse repo e abra o arquivo HTML no navegador ou caso queira apen
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-```
+ 
 
 ## Demo 
 ![paper-scissors-spock](https://user-images.githubusercontent.com/66249777/106074153-1d974a00-60ea-11eb-8ba0-ca77795febc0.gif)
