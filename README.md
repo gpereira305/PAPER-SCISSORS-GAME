@@ -12,7 +12,7 @@ Utilizado o método Math.random() com javascript é possível gerar números ale
 durante a jogatina.
 	
 ## Technologies
-Esse projeto usa as seguintes tecnologias:
+Esse projeto contém as seguintes tecnologias:
 * HTML 5
 * CSS 3 
 * Javascript
